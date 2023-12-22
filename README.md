@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ade-mic
-- 👀 I’m interested in Web Apps and Data
-- 🌱 I’m currently learning Mobile Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Scientific Programing and Software Engineering
+- 🌱 I’m currently a student of ALX_SE
+- 💞️ I’m looking to collaborate on any scientific project or software engineering
 - 📫 How to reach me ademic.aina@gmail.com | twitter @ace_ade
 
 <!---
