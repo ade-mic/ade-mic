@@ -4,22 +4,22 @@ I'm Ademola Aina, a passionate student at ALXSE, currently exploring the world o
 
 ## About Me
 
-<p>👷‍♂️👷‍♀️🔧🔩⚙️💻</p>
+###👷‍♂️👷‍♀️🔧🔩⚙️💻
  I'm an Agricultural Engineer with a keen interest in Numerical and Data-Driven Modelling, Computer Vision Applications in Smart Farming, and Technology Integration for Sustainable Practices. Thanks to ALX-Africa, I've honed my software engineering skills to support these interests.
 
-<p>🌱 <b> What I Do </b>  </p>
+###🌱 What I Do
 I focus on leveraging cutting-edge technologies like artificial intelligence, machine learning, and data analytics to transform traditional agricultural practices. My goal is to make farming smarter, more efficient, and sustainable. Whether it's developing algorithms to optimize crop yields or integrating IoT devices to monitor environmental conditions, I strive to bridge the gap between technology and agriculture.
 
-<p>💡<b> Research Interests </b> </p>
+###💡Research Interests
 <ul>
 <li>Numerical and Data-Driven Modelling for Precision Agriculture</li>
 <li>Computer Vision Applications in Smart Farming</li>
 <li>Technology Integration for Sustainable Practices</li>
 </ul>
-<p>🚀 <b>What Drives Me</b>  </p>
+###🚀 What Drives Me
 The challenges in agriculture—such as data management, accuracy, and the complexities of technology adoption—motivate me to innovate and find practical solutions. I'm driven by the need to convert complex data into simple, actionable insights that can help farmers worldwide.
 
-<p> 📚 <b>Education & Experience</b> </p>
+### 📚 Education & Experience
 I hold a Master's degree in Agricultural Process Engineering from Universiti Putra Malaysia and have worked on various projects that blend technology with agriculture. My experience ranges from developing full-stack web apps to building data-driven models and numerical simulations.
 
 
