@@ -10,7 +10,7 @@ I'm Ademola Aina, a passionate student at ALXSE, currently exploring the world o
 <p>🌱 <b> What I Do</b>  </p>
 I focus on leveraging cutting-edge technologies like artificial intelligence, machine learning, and data analytics to transform traditional agricultural practices. My goal is to make farming smarter, more efficient, and sustainable. Whether it's developing algorithms to optimize crop yields or integrating IoT devices to monitor environmental conditions, I strive to bridge the gap between technology and agriculture.
 
-<p>💡<b>Research Interests </b></p>
+<p>💡<b>Research Interests </b> </p>
 - Numerical and Data-Driven Modelling for Precision Agriculture
 - Computer Vision Applications in Smart Farming
 - Technology Integration for Sustainable Practices
