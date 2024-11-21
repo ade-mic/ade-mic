@@ -16,7 +16,8 @@ I focus on leveraging cutting-edge technologies like artificial intelligence, ma
 <li>Computer Vision Applications in Smart Farming</li>
 <li>Technology Integration for Sustainable Practices</li>
 </ul>
-### 🚀 What Drives Me
+
+###  🚀 What Drives Me
 The challenges in agriculture—such as data management, accuracy, and the complexities of technology adoption—motivate me to innovate and find practical solutions. I'm driven by the need to convert complex data into simple, actionable insights that can help farmers worldwide.
 
 ### 📚 Education & Experience
