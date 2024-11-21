@@ -24,7 +24,7 @@ I hold a Master's degree in Agricultural Process Engineering from Universiti Put
 
 ## Skills & Technologies
 
-react,c,emacs,flask,linux,anaconda
+[![My Skills](https://skillicons.dev/icons?i=react,c,emacs,flask,linux,anaconda&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
