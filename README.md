@@ -1,62 +1,58 @@
-## Hi there! 👋
+### Hi there! 👋  
 
-I'm Ademola Aina, a fullStack software engineer. I love creating efficient and scalable applications that solve real-world problems.
+I'm **Ademola Aina**, a Full-Stack Software Engineer passionate about building scalable, high-performance applications that solve real-world challenges. My expertise spans front-end and back-end development, with a strong foundation in **React, Redux, Node.js, Python, Flask, MongoDB and SQL**.  
 
-## About Me
+---
 
-### 👷‍♂️👷‍♀️🔧🔩⚙️💻
- I'm an Agricultural Engineer with a keen interest in Numerical and Data-Driven Modelling, Computer Vision Applications in Smart Farming, and Technology Integration for Sustainable Practices. Thanks to ALX-Africa, I've honed my software engineering skills to support these interests.
+## 🚀 About Me  
 
-### 🌱 What I Do
-I focus on leveraging cutting-edge technologies like artificial intelligence, machine learning, and data analytics to transform traditional agricultural practices. My goal is to make farming smarter, more efficient, and sustainable. Whether it's developing algorithms to optimize crop yields or integrating IoT devices to monitor environmental conditions, I strive to bridge the gap between technology and agriculture.
+### 💻 Software Engineering & Development  
+I specialize in designing and implementing **efficient, maintainable, and scalable web applications**. My work includes developing RESTful APIs, optimizing databases, and creating dynamic user interfaces with modern JavaScript frameworks. Thanks to **ALX-Africa's** rigorous software engineering training, I've honed my skills in:  
 
-### 💡Research Interests
-<ul>
-<li>Numerical and Data-Driven Modelling for Precision Agriculture</li>
-<li>Computer Vision Applications in Smart Farming</li>
-<li>Technology Integration for Sustainable Practices</li>
-</ul>
+✔ **Front-End:** React, NextJS, Redux, HTML, CSS, JavaScript  
+✔ **Back-End:** Node.js, Express, Flask  
+✔ **Databases:** SQL, MongoDB  
+✔ **Tools & DevOps:** Docker, Git, Linux, CI/CD  
 
-###  🚀 What Drives Me
-The challenges in agriculture—such as data management, accuracy, and the complexities of technology adoption—motivate me to innovate and find practical solutions. I'm driven by the need to convert complex data into simple, actionable insights that can help farmers worldwide.
+### 📊 Data-Driven Engineering  
+Beyond software development, I leverage **data analytics, machine learning, and numerical modeling** to drive insights and improve decision-making. My experience in **Python, R, and data visualization** has enabled me to tackle complex problems, from **finite element modeling in agriculture** to predictive analytics for smart farming.  
 
-### 📚 Education & Experience
-I hold a Master's degree in Agricultural Process Engineering from Universiti Putra Malaysia and have worked on various projects that blend technology with agriculture. My experience ranges from developing full-stack web apps to building data-driven models and numerical simulations.
+### 🎯 What I Do  
+- **Front-End Development:** Crafting intuitive, high-performance UIs with React & Redux  
+- **Back-End Development:** Designing scalable APIs and database systems  
+- **Data Analytics & Machine Learning:** Extracting insights from large datasets using Python & R  
+- **Software Optimization:** Improving performance, scalability, and security  
 
+---
 
-## Skills & Technologies
+## 📚 Education & Experience  
 
-[![My Skills](https://skillicons.dev/icons?i=react,c,emacs,flask,linux,anaconda&perline=8)](https://skillicons.dev)
+🎓 **MSc, Agricultural Process Engineering**, Universiti Putra Malaysia  
+💼 **Full-Stack Developer**, Freelance  
+💼 **Research Assistant**, Universiti Putra Malaysia  
 
-## Top Projects
+In my research role, I developed computational models using Python and R to analyze **biomechanical properties of agricultural products**, applying machine learning to enhance predictive accuracy. This fusion of engineering, coding, and data science drives my approach to solving technical challenges.  
 
-- [alx-backend-user-data](https://github.com/ade-mic/alx-backend-user-data) - A project focused on backend user data management. Stars: 0, Language: Python, Issues: 0.
-- [alx-react](https://github.com/ade-mic/alx-react) - A React project for building dynamic user interfaces. Stars: 0, Language: JavaScript, Issues: 0.
-- [alx-interview](https://github.com/ade-mic/alx-interview) - A repository dedicated to interview preparation resources. Stars: 0, Language: Python, Issues: 0.
-- [portfolio-website](https://github.com/ade-mic/portfolio-website) - My personal portfolio website showcasing my projects and skills. Stars: 0, Language: HTML, Issues: 0.
+---
 
-## GitHub Stats
+## 🔧 Skills & Technologies  
 
-🌟 **Public Repositories**: 35  
-👥 **Followers**: 2  
-🔗 **Following**: 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ade-mic&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,python,flask,postgres,mongodb,docker,git,linux&perline=8)](https://skillicons.dev)  
 
-## Recent Activity
+---
 
-- Pushed updates to [alx-backend-user-data](https://github.com/ade-mic/alx-backend-user-data) - 20. End-to-end integration test.
-- Updated password functionality in [alx-backend-user-data](https://github.com/ade-mic/alx-backend-user-data).
-- Continuous contributions throughout various projects.
+## 🌟 Featured Projects  
 
-## Latest Blog Posts
+- **[alx-backend-user-data](https://github.com/ade-mic/alx-backend-user-data)** - Secure user data management system (Python, Flask)  
+- **[alx-react](https://github.com/ade-mic/alx-react)** - Dynamic front-end development with React  
+- **[portfolio-website](https://github.com/ade-mic/portfolio-website)** - My personal portfolio showcasing my work  
 
-Currently, I do not have any blog posts. But stay tuned for updates!
+---
 
-## Connect with Me
+## 📬 Connect with Me  
 
-email:  ademic.aina@gmail.com
+📧 **Email:** ademic.aina@gmail.com  
+💻 **GitHub:** [github.com/ade-mic](https://github.com/ade-mic)  
+🔗 **LinkedIn:** [Your LinkedIn Profile]  
 
-## Publications
-
-- [ The influence of papaya shape on its mass model and mechanical properties]( https://doi.org/10.1111/jfpe.14627
-) - J Food Process Eng., 2024
+I’m always open to collaborating on exciting projects—let’s build something amazing! 🚀
