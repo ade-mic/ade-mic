@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Ademola Aina, a passionate student at ALXSE, currently exploring the world of backend development and software engineering. I love creating efficient and scalable applications that solve real-world problems.
+I'm Ademola Aina, a fullStack software engineer. I love creating efficient and scalable applications that solve real-world problems.
 
 ## About Me
 
